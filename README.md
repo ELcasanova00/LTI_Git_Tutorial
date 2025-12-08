@@ -8,7 +8,6 @@
 
 - [Abdul Aziz](https://github.com/aziz-0110) `[S.E. Assitant of LTI, 2024/2025 - BUG]`
 
-- [A Syamil](https://github.com/ELcasanova00) 
 
 - [I Made Adhika Dananjaya](https://github.com/kingofaris) `[S.E. Assitant of LTI, 2024/2025 - DAY]`
 > Let's study together!  
