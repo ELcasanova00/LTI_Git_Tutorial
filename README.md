@@ -51,7 +51,7 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Make system that can detect the "owner" with cam   
 >> `Project Link:` [Recognize Face System  ](https://github.com/DNALWANA/Recognize-Face-System)
 
--[Abdullah Syamil Rasyid](https://github.com/ELcasanova00) `[S.E. Internship Member of LTI, 2024/2025]`
+- [Abdullah Syamil Rasyid](https://github.com/ELcasanova00) `[S.E. Internship Member of LTI, 2024/2025]`
 > Make System Virtual Pen 
 >> `Project Link:`[Virtual Pen](https://github.com/ELcasanova00/Open-virtual-pen-LTI-)
 
